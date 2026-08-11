@@ -39,4 +39,4 @@ Chart requirments
 	Objective: Provide a comprehensive view of all key metrics (Total Sales, Average Sales, Number of Items, Average Rating) 	broken down by different outlet types.
 	Chart Type: Matrix Card.
 
-![Dashboard preview](https://github.com/Atharw10/blinktsales_analysis/blob/main/blinkt%20report%20dashboard.png)
+![Blinkit Sales Dashboard](./blink%20report%20dashboard.png)
